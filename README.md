@@ -1,7 +1,7 @@
-[![MasterHead](https://media.discordapp.net/attachments/1127287128880074855/1134810760166527006/IMG_1240.gif)
 <h1 align="center">Hi 👋, I'm dxxdll</h1>
 <h3 align="center">Currenlty working on a dc multi tool</h3>
-(img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/1127287128880074855/1134810760166527006/IMG_1240.gif"
+(img align="right" alt="Coding" width="400" src="![image](https://github.com/dxredeye/dxredeye/assets/140664325/ba5b0448-5c93-49bf-bc34-b9951f5684b0)
+"
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dxxdll" alt="dxxdll" /></a> </p>
 
